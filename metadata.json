@@ -1,0 +1,6 @@
+{
+  "name": "Sobrevivente Pixelado (Pixel Survivor)",
+  "description": "A 2D survival game where you play as a wizard fighting off waves of enemies and leveling up with various upgrades. Built with React, TypeScript, and Tailwind CSS, based on an original JavaScript canvas game.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
